@@ -1,4 +1,4 @@
-# Crew AI Tutorials
+# Agentic AI Tutorials
 
 
 ## 1) Automated Item Descriptions for E-commerce: Leveraging Multi-Agent Systems
