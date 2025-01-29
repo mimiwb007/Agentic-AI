@@ -10,6 +10,12 @@ In the following tutorial, we will focus on creating a framework using Crew AI w
 
 ## 2) Crafting an Energy Optimization Recommender with Agentic AI
 
-### Code -[https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_visiontool.py ](https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_EnergyOptimizationRecommender.py)
+### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_EnergyOptimizationRecommender.py
 
 Building an Energy Optimization Plan Recommender using CrewAI involves utilizing its multi-agent system to analyze energy consumption patterns and generate tailored optimization strategies. The autonomous AI agents within CrewAI can collaborate with each other to assess the data, identify inefficiencies, and recommend actionable steps to reduce energy usage while maximizing operational efficiency. 
+
+## 3) GripTape-Driven Automation: Transforming Real Estate Communications with Multi-Agent Systems
+
+### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/GripTape_MultiAgentic.py
+
+In this tutorial, we would explore how we can enable automation of a blog to be sent to potential Real Estate Buyers in Gurgaon by  integrating a multi agentic system using GripTape.
