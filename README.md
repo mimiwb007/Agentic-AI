@@ -38,6 +38,12 @@ Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_EdTechRecommenda
 
 In this article, we will explore how these AI agents, using the CrewAI framework, can be applied to recommend personalized courses for students at an Edtech company. By leveraging the capabilities of AI agents, Edtech platforms can offer students course recommendations that match their learning needs and interests, improving their educational experience.
 
+## 7) Building a Multi-Agent System with Camel AI: From Store Locations to Targeted Campaigns
+
+Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CamelAI_MultiAgenticSystem_TargetedCampaign.py
+
+A hands-on Python implementation for creating a multi agent system using Camel AI to automate fetching of locations of Coffee shops in a specific area along with the prices of coffee in these shops followed by crafting of promotional campaigns for each of these stores.
+
 ## 7) Getting Started with OpenAI Swarm: Key Features and Practical Application
 
 Code - https://github.com/mimiwb007/Agentic-AI/blob/main/OpenAISwarms_ProductResearcher
