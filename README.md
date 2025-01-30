@@ -25,3 +25,9 @@ In this tutorial, we would explore how we can enable automation of a blog to be 
 ### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_customizedCustomerExperiences
 
 Let us consider a use case in which a coffee chain like Starbucks wants to build an AI agent for drafting and mailing personalized promotional campaigns recommending 3 types of coffee for their customers based on their coffee preferences. The promotional campaign should also include the location of the coffee store which is nearest to the customer’s location where the customer can easily grab these coffees. 
+
+## 5) MultiModal Agentic Framework For Designing Real Estate Brochures 
+
+### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CamelAI_MultiModalImageGenerationAgent.py
+
+In the following hands on tutorial, we create a multi modal agentic system using CAMEL AI for designing brochures for upcoming real estate projects in a city. This could help real estate businesses immensely as this aids in automated creation of the brochures needed for giving out to clients when any of their new projects come up in a city without minimal human intervention.
