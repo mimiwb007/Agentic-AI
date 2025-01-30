@@ -20,11 +20,15 @@ Building an Energy Optimization Plan Recommender using CrewAI involves utilizing
 
 Code - https://github.com/mimiwb007/Agentic-AI/blob/main/GripTape_MultiAgentic.py
 
+[Article](https://www.analyticsvidhya.com/blog/2025/01/griptape-driven-automation/)
+
 In this tutorial, we would explore how we can enable automation of a blog to be sent to potential Real Estate Buyers in Gurgaon by  integrating a multi agentic system using GripTape.
 
 ## 4) [Using AI Agents to Create Customized Customer Experiences](https://www.analyticsvidhya.com/blog/2024/11/customized-customer-experiences/)
 
 Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_customizedCustomerExperiences
+
+[Article](https://www.analyticsvidhya.com/blog/2024/11/customized-customer-experiences/)
 
 Let us consider a use case in which a coffee chain like Starbucks wants to build an AI agent for drafting and mailing personalized promotional campaigns recommending 3 types of coffee for their customers based on their coffee preferences. The promotional campaign should also include the location of the coffee store which is nearest to the customer’s location where the customer can easily grab these coffees. 
 
@@ -32,11 +36,16 @@ Let us consider a use case in which a coffee chain like Starbucks wants to build
 
 Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CamelAI_MultiModalImageGenerationAgent.py
 
+[Article](https://www.analyticsvidhya.com/blog/2025/01/multimodal-agentic-framework/)
+
+
 In the following hands on tutorial, we create a multi modal agentic system using CAMEL AI for designing brochures for upcoming real estate projects in a city. This could help real estate businesses immensely as this aids in automated creation of the brochures needed for giving out to clients when any of their new projects come up in a city without minimal human intervention.
 
 ## 6) [Transforming Personalized Recommendations with AI Agent Automation](https://www.analyticsvidhya.com/blog/2024/10/ai-agents-with-crewai/)
 
 Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_EdTechRecommendations.py
+
+[Article](https://www.analyticsvidhya.com/blog/2024/10/ai-agents-with-crewai/)
 
 In this article, we will explore how these AI agents, using the CrewAI framework, can be applied to recommend personalized courses for students at an Edtech company. By leveraging the capabilities of AI agents, Edtech platforms can offer students course recommendations that match their learning needs and interests, improving their educational experience.
 
@@ -44,10 +53,14 @@ In this article, we will explore how these AI agents, using the CrewAI framework
 
 Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CamelAI_MultiAgenticSystem_TargetedCampaign.py
 
+[Article](https://www.analyticsvidhya.com/blog/2024/12/multi-agent-system-with-camel-ai/)
+
 A hands-on Python implementation for creating a multi agent system using Camel AI to automate fetching of locations of Coffee shops in a specific area along with the prices of coffee in these shops followed by crafting of promotional campaigns for each of these stores.
 
 ## 8) [Getting Started with OpenAI Swarm: Key Features and Practical Application](https://www.analyticsvidhya.com/blog/2024/12/managing-multi-agent-systems-with-openai-swarm/)
 
 Code - https://github.com/mimiwb007/Agentic-AI/blob/main/OpenAISwarms_ProductResearcher
+
+[Article](https://www.analyticsvidhya.com/blog/2024/12/managing-multi-agent-systems-with-openai-swarm/)
 
 A practical Python implementation is presented, demonstrating how to leverage OpenAI Swarm to build a simple Brand Product Researcher using Wikipedia data.
