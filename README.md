@@ -31,3 +31,9 @@ Let us consider a use case in which a coffee chain like Starbucks wants to build
 ### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CamelAI_MultiModalImageGenerationAgent.py
 
 In the following hands on tutorial, we create a multi modal agentic system using CAMEL AI for designing brochures for upcoming real estate projects in a city. This could help real estate businesses immensely as this aids in automated creation of the brochures needed for giving out to clients when any of their new projects come up in a city without minimal human intervention.
+
+## 6) Transforming Personalized Recommendations with AI Agent Automation
+
+### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_EdTechRecommendations.py
+
+In this article, we will explore how these AI agents, using the CrewAI framework, can be applied to recommend personalized courses for students at an Edtech company. By leveraging the capabilities of AI agents, Edtech platforms can offer students course recommendations that match their learning needs and interests, improving their educational experience.
