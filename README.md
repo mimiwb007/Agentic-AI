@@ -44,7 +44,7 @@ Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CamelAI_MultiAgenticSys
 
 A hands-on Python implementation for creating a multi agent system using Camel AI to automate fetching of locations of Coffee shops in a specific area along with the prices of coffee in these shops followed by crafting of promotional campaigns for each of these stores.
 
-## 7) Getting Started with OpenAI Swarm: Key Features and Practical Application
+## 8) Getting Started with OpenAI Swarm: Key Features and Practical Application
 
 Code - https://github.com/mimiwb007/Agentic-AI/blob/main/OpenAISwarms_ProductResearcher
 
