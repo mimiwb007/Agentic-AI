@@ -37,3 +37,9 @@ In the following hands on tutorial, we create a multi modal agentic system using
 ### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_EdTechRecommendations.py
 
 In this article, we will explore how these AI agents, using the CrewAI framework, can be applied to recommend personalized courses for students at an Edtech company. By leveraging the capabilities of AI agents, Edtech platforms can offer students course recommendations that match their learning needs and interests, improving their educational experience.
+
+## 7) Getting Started with OpenAI Swarm: Key Features and Practical Application
+
+### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/OpenAISwarms_ProductResearcher
+
+A practical Python implementation is presented, demonstrating how to leverage OpenAI Swarm to build a simple Brand Product Researcher using Wikipedia data.
