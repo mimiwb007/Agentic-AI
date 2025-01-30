@@ -19,3 +19,9 @@ Building an Energy Optimization Plan Recommender using CrewAI involves utilizing
 ### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/GripTape_MultiAgentic.py
 
 In this tutorial, we would explore how we can enable automation of a blog to be sent to potential Real Estate Buyers in Gurgaon by  integrating a multi agentic system using GripTape.
+
+## 4) Using AI Agents to Create Customized Customer Experiences
+
+### Code - https://github.com/mimiwb007/Agentic-AI/blob/main/CrewAI_customizedCustomerExperiences
+
+Let us consider a use case in which a coffee chain like Starbucks wants to build an AI agent for drafting and mailing personalized promotional campaigns recommending 3 types of coffee for their customers based on their coffee preferences. The promotional campaign should also include the location of the coffee store which is nearest to the customer’s location where the customer can easily grab these coffees. 
